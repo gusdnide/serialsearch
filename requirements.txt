@@ -1,0 +1,3 @@
+requests==2.21.0
+colorama==0.3.7
+AdvancedHTMLParser==8.1.4

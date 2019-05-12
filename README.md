@@ -1,5 +1,5 @@
 # serialsearch
-
+A simple tool to find keys and serial
 ## Tutorial
 [![asciicast](https://asciinema.org/a/wHTEsVsWkPMIrhT5fxFamtxAy.svg)](https://asciinema.org/a/wHTEsVsWkPMIrhT5fxFamtxAy)
 
